@@ -1,0 +1,47 @@
+.form {
+    margin: 10em 50em 20em 50em
+}
+
+.headerReg {
+    padding-bottom: 25px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+.username {
+    padding-left: 120px;
+    font-weight: bold
+}
+
+.usernameInput {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 280px;
+    height: 30px;
+    border-radius: 5px
+}
+
+.password {
+    padding-left: 120px;
+    font-weight: bold;
+}
+
+.passwordInput {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 280px;
+    height: 30px;
+    border-radius: 5px
+}
+
+.buttonReg {
+    background-color: blue;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 25px;
+    height: 40px;
+    width: 290px;
+}
